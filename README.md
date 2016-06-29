@@ -1,6 +1,6 @@
-# my-project
+# vue-scaffolding
 
-> A Vue.js project
+> A Vue.js scaffolding project
 
 ## Build Setup
 
